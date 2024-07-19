@@ -62,7 +62,7 @@ body {
 
 .home-section {
     color: white;
-    background-image: url(4ffabbe937b5319c746f140a155ea036f1777c94-1182x662.webp);
+    background-image: url(one.webp);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 5rem 0;
@@ -137,7 +137,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.webp);
+    background-image: url(third.webp);
     background-size: cover;
     background-repeat: no-repeat;
     filter: blur(5px);
